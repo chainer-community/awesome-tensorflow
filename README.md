@@ -57,7 +57,9 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 
 # Chainer External Examples
 
-## Preferred NetWorks Research
+* [chainer/models](https://github.com/chainer/models) - Models and examples built with Chainer
+
+## Preferred Networks Research
 
 * [chainer-LSGAN](https://github.com/pfnet-research/chainer-LSGAN) - Least Squares Generative Adversarial Network implemented in Chainer
 * [chainer-gogh](https://github.com/pfnet-research/chainer-gogh) - Implementation of "A neural algorithm of Artistic style"
@@ -173,6 +175,7 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 * [musyoku/weight-normalization](https://github.com/musyoku/weight-normalization) - Weight Normalization Layer for Chainer
 * [musyoku/chainer-sequential](https://github.com/musyoku/chainer-sequential) - chainer-sequential
 * [musyoku/recurrent-batch-normalization](https://github.com/musyoku/recurrent-batch-normalization) - Recurrent Batch Normalization
+* [hitsgub/extra-chainer](https://github.com/hitsgub/extra-chainer) - Implements novel methods
 
 <a name="video" />
 
@@ -180,6 +183,7 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
 
 (in Japanese)
 
+* Chainer Beginner's Hands-On: [01 (2018/12/01)](https://www.youtube.com/watch?v=q8LZRdjOkdM), [02 (2018/02/16)](https://www.youtube.com/watch?v=FF_x4G4JuFY)
 * [Chainer の Trainer 解説とNStepLSTM について](https://www.youtube.com/watch?v=ok_bvPKAEaM) Published on Mar 15, 2017
 * [Chainer Meetup #04](https://www.youtube.com/watch?v=Fq5ZQ1ccG38&t=6837s) Published on Feb 23, 2017
 * [1014：深層学習フレームワークChainerの導入と化合物活性予測への応用](https://www.youtube.com/watch?v=lM76gLQag4I&t=1211s) Published on Dec 2, 2015
