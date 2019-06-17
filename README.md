@@ -125,7 +125,9 @@ ref [Chainer.wiki](https://github.com/chainer/chainer/wiki) - Chainer Wiki
  * [dsanno/chainer-dfi](https://github.com/dsanno/chainer-dfi) - Deep Feature Interpolation for Image Content Changes
  * [dsanno/chainer-dfi](https://github.com/dsanno/chainer-dfi) - Deep Feature Interpolation for Image Content Changes
  * [osmr/imgclsmob](https://github.com/osmr/imgclsmob) - Collection of classification models pretrained on the ImageNet-1K
-
+ * [cmpute/chainer-voxelnet](https://github.com/cmpute/chainer-voxelnet) - VoxelNet
+ * [cmpute/chainer-regnet](https://github.com/cmpute/chainer-regnet) - RegNet (Multimodal sensor registration)
+ 
 ### Reinforcement Learning
 
  * [ugo-nama-kun/DQN-chainer](https://github.com/ugo-nama-kun/DQN-chainer) - Deep Q-Network (DQN)
